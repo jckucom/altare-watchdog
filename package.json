@@ -1,0 +1,1 @@
+{"description":"Watchdog for Ty's free-tier assets, running on his Altare free app","engines":{"node":">=20"},"main":"app.js","name":"altare-watchdog","private":true,"scripts":{"start":"node app.js"},"version":"1.0.0"}
